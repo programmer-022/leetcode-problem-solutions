@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/3sum-closest/
 // Author : Aawez Khan
-// Date   : 2016-02-04
+// Date   : 2020-10-27
 
 /**
  * @param {number[]} nums
