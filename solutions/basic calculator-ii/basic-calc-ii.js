@@ -10,7 +10,7 @@ var calculate = function(s) {
     s = s.replace(/\s/g, '');
     var num = 0;
     var numStack = [];
-    var sym = '+';  // 前一个符号，默认可为 '+'
+    var sym = '+'; 
   
     for (var i = 0, len = s.length; i < len; i++) {
       var item = s[i];
